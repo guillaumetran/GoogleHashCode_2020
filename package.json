@@ -1,0 +1,27 @@
+{
+  "name": "googlehashcode_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write \"*.js\" \"test/*.js\""
+  },
+  "dependencies": {
+    "jolicitron": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumetran/GoogleHashCode_2020.git"
+  },
+  "keywords": [
+    "Google",
+    "Hashcode"
+  ],
+  "author": "Guillaume Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumetran/GoogleHashCode_2020/issues"
+  },
+  "homepage": "https://github.com/guillaumetran/GoogleHashCode_2020#readme"
+}
