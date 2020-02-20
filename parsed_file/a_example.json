@@ -1,0 +1,67 @@
+{
+    "parsedValue": {
+        "scanningDays": 7,
+        "books": [
+            {
+                "score": 1
+            },
+            {
+                "score": 2
+            },
+            {
+                "score": 3
+            },
+            {
+                "score": 6
+            },
+            {
+                "score": 5
+            },
+            {
+                "score": 4
+            }
+        ],
+        "libraries": [
+            {
+                "signUpTime": 2,
+                "scannedBooksPerDay": 2,
+                "books": [
+                    {
+                        "id": 0
+                    },
+                    {
+                        "id": 1
+                    },
+                    {
+                        "id": 2
+                    },
+                    {
+                        "id": 3
+                    },
+                    {
+                        "id": 4
+                    }
+                ]
+            },
+            {
+                "signUpTime": 3,
+                "scannedBooksPerDay": 1,
+                "books": [
+                    {
+                        "id": 0
+                    },
+                    {
+                        "id": 2
+                    },
+                    {
+                        "id": 3
+                    },
+                    {
+                        "id": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "remaining": ""
+}
